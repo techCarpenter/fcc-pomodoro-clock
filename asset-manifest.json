@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pomodoroclock/static/css/main.1c793510.chunk.css",
+    "main.js": "/pomodoroclock/static/js/main.10d0a153.chunk.js",
+    "main.js.map": "/pomodoroclock/static/js/main.10d0a153.chunk.js.map",
+    "runtime-main.js": "/pomodoroclock/static/js/runtime-main.3d29201c.js",
+    "runtime-main.js.map": "/pomodoroclock/static/js/runtime-main.3d29201c.js.map",
+    "static/js/2.801e139a.chunk.js": "/pomodoroclock/static/js/2.801e139a.chunk.js",
+    "static/js/2.801e139a.chunk.js.map": "/pomodoroclock/static/js/2.801e139a.chunk.js.map",
+    "index.html": "/pomodoroclock/index.html",
+    "precache-manifest.af5347011b0080f8d6981f03cabe0242.js": "/pomodoroclock/precache-manifest.af5347011b0080f8d6981f03cabe0242.js",
+    "service-worker.js": "/pomodoroclock/service-worker.js",
+    "static/css/main.1c793510.chunk.css.map": "/pomodoroclock/static/css/main.1c793510.chunk.css.map"
+  }
+}
