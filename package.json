@@ -1,4 +1,5 @@
 {
+  "homepage": "https://techcarpenter.gitlab.io/pomodoroclock",
   "name": "pomodoroclock",
   "version": "0.1.0",
   "private": true,
